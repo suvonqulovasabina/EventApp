@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Event App</string>
+    <string name="events">Events</string>
+    <string name="internet">Network</string>
+    <string name="battery_event">Battery</string>
+    <string name="screen_evant">Screen</string>
+    <string name="pilot_event">Pilot</string>
+    <string name="bluetooth_event">Bluetooth</string>
+    <string name="about_app">About app</string>
+    <string name="wi_fi">Wi fi</string>
+    <string name="hotspot">Mobile connecting</string>
+    <string name="battery_charging_notifies_when_the_device_starts_or_stops_charging">1.Battery Charging: Notifies when the device starts or stops charging.</string>
+    <string name="network_connections_monitors_changes_in_network_type_e_g_switching_from_wi_fi_to_mobile_data">2.Network Connections: Monitors changes in network type (e.g., switching from Wi-Fi to mobile data).</string>
+    <string name="airplane_mode_indicates_when_airplane_mode_is_enabled_or_disabled">3.Airplane Mode: Indicates when airplane mode is enabled or disabled.</string>
+    <string name="wi_fi_status_tracks_when_wi_fi_is_connected_disconnected_or_toggled">5.Wi-Fi Status: Tracks when Wi-Fi is connected, disconnected, or toggled.</string>
+    <string name="mobile_internet_status_alerts_when_mobile_data_is_turned_on_or_off">6.Mobile Internet Status: Alerts when mobile data is turned on or off.</string>
+    <string name="screen_status_informs_about_the_screen_turning_on_or_off">7.Screen Status: Informs about the screen turning on or off.</string>
+    <string name="_4_bluetooth_status_alerts_when_bluetooth_is_turned_on_off_or_connected_disconnected">4.Bluetooth Status: Alerts when Bluetooth is turned on/off or connected/disconnected.</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.EventApp" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">#7fcbd7</item>
+    </style>
+
+    <style name="Theme.EventApp" parent="Base.Theme.EventApp" >
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
